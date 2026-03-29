@@ -31,6 +31,9 @@ modelo_razas.keras                 # Mejor modelo guardado automáticamente
 ```bash
 pip install tensorflow pillow numpy matplotlib streamlit
 ```
+```bash
+Python 3.12
+```
 
 > Se recomienda ejecutar el notebook en **Google Colab** con GPU habilitada.
 
