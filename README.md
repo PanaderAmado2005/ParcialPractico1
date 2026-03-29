@@ -4,7 +4,7 @@
 
 ## 🌐 Aplicación Web
 
-> **Streamlit App:** [Insertar link aquí]
+> **Streamlit App:** [https://parcialpractico1-fd7hdysmy7f4srnkzla5cf.streamlit.app/]
 
 ---
 
